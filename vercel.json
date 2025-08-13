@@ -12,7 +12,7 @@
     "PEXELS_API_KEY": "@pexels_api_key",
     "NEXT_PUBLIC_APP_URL": "@app_url"
   },
-  "regions": ["iad1", "sfo1", "fra1", "sin1"],
+  "regions": ["iad1"],
   "functions": {
     "src/app/api/generate-spec/**/*.ts": {
       "maxDuration": 25
