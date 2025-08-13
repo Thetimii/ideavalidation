@@ -2,6 +2,8 @@
 
 A Next.js application that generates beautiful landing pages from natural language prompts using AI. Simply describe your idea and get a fully functional website with copy, design, and images automatically generated.
 
+✨ **Ready for Production Deployment** ✨
+
 ## Features
 
 - **AI-Powered Generation**: Uses Gemini 1.5 Pro to generate structured page specifications and copy
