@@ -1,0 +1,5 @@
+{
+  "/generate/[jobId]/page": "app/generate/[jobId]/page.js",
+  "/page": "app/page.js",
+  "/p/[id]/page": "app/p/[id]/page.js"
+}
